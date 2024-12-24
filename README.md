@@ -13,5 +13,9 @@ so the things are
  * Loops
  * String Methods
  * Flow Control(if, else, while)
+ * FIle Handling
  * Handling user input, both command line args and during runtime
  And that's it, now in order to learn all of this you need to get your hands dirty and actually write code and mess around.
+## Things I want to add
+ * making requests to urls, crawling, etc.
+  I belive nim can be used to create fun but powerful cybersecurity projects.
