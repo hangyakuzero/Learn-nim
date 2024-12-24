@@ -12,5 +12,6 @@ so the things are
  * Data Structure
  * Loops
  * String Methods
+ * Flow Control(if, else, while)
  * Handling user input, both command line args and during runtime
  And that's it, now in order to learn all of this you need to get your hands dirty and actually write code and mess around.
